@@ -18,8 +18,8 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
-![Windows](    https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)&nbsp;
-![GameMaker Studio](https://img.shields.io/badge/Made%20with-GameMaker_Studio-8cd248.svg?style=flat&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAABgAAAAOCAMAAAACJixMAAABKVBMVEWM0kiM0kiM0kiM0kiM0kiM0kiM0kiM0kiM0kiM0kiM0kiM0kiM0kiM0kiM0kiM0kiM0kiM0kiM0kiM0kiM0kiM0kiM0kiM0kiM0kiM0kiM0kiM0kiM0kiM0kiM0kiM0kiM0kiM0kiM0kiM0kiM0kiM0kiM0kiM0kiM0kiM0kiM0kiM0kiM0kiM0kiM0kiM0kiM0kiM0kiM0kiM0kiM0kiM0kiM0kiM0kiM0kiM0kiM0kiM0kiM0kiM0kiM0kiM0kiM0kiM0kiM0kiM0kiM0kiM0kiM0kiM0kiM0kiM0kiM0kiM0kiM0kiM0kiM0kiM0kiM0kiM0kiM0kiM0kiM0kiM0kiM0kiM0kiM0kiM0kiM0kiM0kiM0kiM0kiM0kiM0kiM0kiM0kiM0kj298qCAAAAYnRSTlMAAgMEBQYJDhAREhsgISMqKyw2PkFCQ0ZIS09QUVhbXGNnam1wcXV2d3t9f4GChYeJio6PkJGXnJ2gpKapqq2yv8LExcjKy8zP0dfb3uDh4%2Bbn6Onq6%2Bzt7vDx8vT4%2Bvv8%2Fi7vr7oAAADYSURBVHgBNdB3M8RgEIDxFyfndFE4Xqf308spTuH0EBLJq0TC8%2F0%2FhETs%2FvXM%2FGZ2dlbtv5vXilK2G4R17flXtvqfvhjcdnUGjN0A95bIBjA3AhwsATAvUHKJ9R1EvYvbOwGYDpFJ9maB9ayngJpAy0nZg6e2rAvXkNgihSP4mch74BsumkXqKYzn2Z%2FApSXQ%2FQlO8W9tA75Gj0siVWA1PwR2F1gRKDoQba4tdz6CXw756BKpAFCrAjMaOBRoOgeehyN4sFpvgUGRnkZoprfSh2qlhl7M2%2BkvvuY4s1%2FFgmwAAAAASUVORK5CYII%3D)]&nbsp;
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)&nbsp;
+
 
 ### Studying in this moment:
 ![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
