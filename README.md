@@ -1,7 +1,7 @@
 
 # Hey, I'm João Victor Dias👋
 
-## Hard Skills
+## About me
 
 ## Main Skills
 
