@@ -4,7 +4,7 @@
 ## About me
 
 ## Main Skills
-<div style=border-box: 3px solid green>
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Dias-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Dias-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -18,7 +18,7 @@
 
 
 
-</div>
+
  
  ## Tools:
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)&nbsp;
