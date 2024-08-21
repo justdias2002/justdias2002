@@ -3,6 +3,8 @@
 
 ## About me
 
+My name is João, I'm 21 years old, I've been studying programming for 1 year and a half, I want to enter the job market to improve my skills and become a good professional
+
 ## Main Skills
 
 <div style="display: inline_block"><br>
