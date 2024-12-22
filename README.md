@@ -22,7 +22,6 @@ My name is João Victor, I'm 22 years old and I've been studying programming for
   <img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
-  <img align="center" alt="Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
 </div>
@@ -34,6 +33,11 @@ My name is João Victor, I'm 22 years old and I've been studying programming for
 - Problem-solving mindset  
 - Communication and adaptability  
 - Time management and organization  
+
+---
+
+## Design Tools
+- **Figma**: A powerful tool for designing interfaces and creating user flows, commonly used for UI/UX design.
 
 ---
 
