@@ -38,6 +38,15 @@ My name is João Victor, I'm 22 years old and I've been studying programming for
 
 ## Design Tools
 - **Figma**: A powerful tool for designing interfaces and creating user flows, commonly used for UI/UX design.
+- <img align="center" alt="Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg">
+
+
+
+### Database Skills
+- **MySQL**: Experience in relational database management with MySQL, designing schemas, writing queries, and optimizing performance.
+  <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
+- **PostgreSQL**: Knowledgeable in PostgreSQL, including advanced features such as indexing, joins, and complex queries for efficient database management.
+  <img align="center" alt="PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg">
 
 ---
 
