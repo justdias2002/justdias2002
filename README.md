@@ -8,7 +8,7 @@ My name is João Victor, I'm 22 years old and I've been studying programming for
 ## Main Skills
 
 ### Technical Skills
-<div style="display: inline_block"><br>
+<div style="display: inline_block background-color: gray"><br>
   <img align="center" alt="ReactJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   <img align="center" alt="TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
   <img align="center" alt="NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
