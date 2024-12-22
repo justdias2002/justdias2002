@@ -3,7 +3,7 @@
 
 ## About me
 
-My name is João Victor , I'm 21 years old, I've been studying programming for 1 year and a half, I want to enter the job market to improve my skills and become a good professional
+My name is João Victor , I'm 22 years old, I've been studying programming for 1 year and a half, I want to enter the job market to improve my skills and become a good professional
 
 ## Main Skills
 
