@@ -41,9 +41,10 @@ My name is João Victor, I'm 22 years old and I've been studying programming for
 - **Figma**: <img align="center" alt="Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg">
 
 ### Database Skills
+<div style="display: inline_block"><br>
  <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
  <img align="center" alt="PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg">
-
+</div>
 ---
 
 ## Tools
