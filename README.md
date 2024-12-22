@@ -37,8 +37,7 @@ My name is João Victor, I'm 22 years old and I've been studying programming for
 ---
 
 ## Design Tools
-- **Figma**: A powerful tool for designing interfaces and creating user flows, commonly used for UI/UX design.
-- <img align="center" alt="Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg">
+- **Figma**: <img align="center" alt="Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg">
 
 
 
