@@ -38,7 +38,7 @@ My name is João Victor, I'm 22 years old and I've been studying programming for
 ---
 
 ## Design Tools
-- **Figma**: <img align="center" alt="Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg">
+<img align="center" alt="Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg">
 
 ### Database Skills
 <div style="display: inline_block"><br>
