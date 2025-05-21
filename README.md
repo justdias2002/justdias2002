@@ -16,8 +16,8 @@ Meu nome é João Victor, tenho 22 anos e estudo programação há 1 ano e meio.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="ReactJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-  <img align="center" alt="TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
   <img align="center" alt="NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
 </div>
 
 ---
@@ -28,8 +28,16 @@ Meu nome é João Victor, tenho 22 anos e estudo programação há 1 ano e meio.
   <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+</div>
+ 
+---
+
+## Aprendendo 
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="JAVA" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  
 </div>
 
 ---
@@ -41,11 +49,6 @@ Meu nome é João Victor, tenho 22 anos e estudo programação há 1 ano e meio.
   <img align="center" alt="PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
 </div>
 
----
-
-## 🎨 Ferramentas de Design
-
-<img align="center" alt="Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
 
 ---
 
@@ -56,15 +59,16 @@ Meu nome é João Victor, tenho 22 anos e estudo programação há 1 ano e meio.
   <img alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+  <img alt="Ubuntu" src="https://img.shields.io/badge/Linux-0078D6?style=for-the-badge&logo=Linux&logoColor=white" />
 </div>
 
 ---
 
 ## 🧠 Soft Skills
 
-- Trabalho em equipe  
-- Comunicação clara  
-- Organização  
+- Trabalho em equipe
+- Comunicação clara
+- Organização
 - Resolução de problemas
 
 ---
@@ -72,7 +76,7 @@ Meu nome é João Victor, tenho 22 anos e estudo programação há 1 ano e meio.
 ## 📱 Contato & Redes
 
 <div>
-  <a href="https://instagram.com/jdias.exe" target="_blank">
+  <a href="https://instagram.com/jdias_v" target="_blank">
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/joao-victor-dias-0026a7266" target="_blank">
@@ -109,8 +113,16 @@ My name is João Victor, I’m 22 years old and I’ve been studying programming
   <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+</div>
+
+---
+
+## Learning 
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="JAVA" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  
 </div>
 
 ---
@@ -124,12 +136,6 @@ My name is João Victor, I’m 22 years old and I’ve been studying programming
 
 ---
 
-### 🎨 Design Tools
-
-<img align="center" alt="Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
-
----
-
 ### 🛠️ Tools
 
 <div>
@@ -138,14 +144,16 @@ My name is João Victor, I’m 22 years old and I’ve been studying programming
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 </div>
+  <img alt="Linux-Ubuntu" src="https://img.shields.io/badge/ubuntu-0078D6?style=for-the-badge&logo=ubuntu&logoColor=black" />
+</div>
 
 ---
 
 ### 🧠 Soft Skills
 
-- Teamwork  
-- Clear communication  
-- Organization  
+- Teamwork
+- Clear communication
+- Organization
 - Problem-solving
 
 ---
@@ -153,7 +161,7 @@ My name is João Victor, I’m 22 years old and I’ve been studying programming
 ### 📱 Contact
 
 <div>
-  <a href="https://instagram.com/jdias.exe" target="_blank">
+  <a href="https://instagram.com/jdias_vtarget="_blank">
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/joao-victor-dias-0026a7266" target="_blank">
