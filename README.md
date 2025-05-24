@@ -14,7 +14,7 @@ Meu nome é João Victor, tenho 22 anos e estudo programação há 1 ano e meio.
 ---
 
 ## 🚀 Minhas principais habilidades
-![](https://skillicons.dev/icons?i=nodejs,react,nextjs,ts)
+![](https://skillicons.dev/icons?i=nodejs,react,nextjs,ts,tailwind,prisma)
 
 ---
 
@@ -32,7 +32,7 @@ Meu nome é João Victor, tenho 22 anos e estudo programação há 1 ano e meio.
 
 ## ☁️ Banco de Dados
 
-![](https://skillicons.dev/icons?i=mysql,postegresql)
+![](https://skillicons.dev/icons?i=mysql,postegres)
 
 
 ---
