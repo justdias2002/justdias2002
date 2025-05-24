@@ -3,7 +3,7 @@
 [🇧🇷 Versão em Português](#-versao-em-portugues) | [🇺🇸 English Version](#-english-version)
 
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codebydias&hide_progress=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codebydias&hide_progress=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
 ## 🇧🇷 Versão em Português
