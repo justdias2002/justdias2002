@@ -2,9 +2,6 @@
 
 [🇧🇷 Versão em Português](#-versao-em-portugues) | [🇺🇸 English Version](#-english-version)
 
----
-### 🚀 Minhas principais linguagens
-![Minhas linguagens](https://skillicons.dev/icons?i=ts,nodejs,react,nextjs,postgres,docker)
 
 ---
 
@@ -16,13 +13,8 @@ Meu nome é João Victor, tenho 22 anos e estudo programação há 1 ano e meio.
 
 ---
 
-## 💻 Principais Habilidades
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="ReactJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-  <img align="center" alt="NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
-</div>
+### 🚀 Minhas principais habilidades
+![](https://skillicons.dev/icons?i=nodejs,react,nextjs,ts)
 
 ---
 
