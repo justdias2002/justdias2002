@@ -6,31 +6,31 @@ I'm a 22y full-stack developer passionate about solving real-world problems with
 
 ## 🚀 Main Tech Stack
 
-![](https://skillicons.dev/icons?i=nodejs,ts,react,nextjs,tailwind,prisma)
+![](https://skillicons.dev/icons?i=nodejs,ts,react,nextjs,tailwind,prisma&theme=dark)
 
 ---
 
 ## 🔧 Additional Skills
 
-![](https://skillicons.dev/icons?i=html,css,js,python,postman)
+![](https://skillicons.dev/icons?i=html,css,js,python,postman&theme=dark)
 
 ---
 
 ## 📘 Currently Learning
 
-![](https://skillicons.dev/icons?i=java,docker)
+![](https://skillicons.dev/icons?i=java,docker&theme=dark)
 
 ---
 
 ## ☁️ Databases
 
-![](https://skillicons.dev/icons?i=mysql,postgres)
+![](https://skillicons.dev/icons?i=mysql,postgres&theme=dark)
 
 ---
 
 ## 🛠️ Tools
 
-![](https://skillicons.dev/icons?i=vscode,git,github,ubuntu,windows)
+![](https://skillicons.dev/icons?i=vscode,git,github,ubuntu,windows&theme=dark)
 
 ---
 
