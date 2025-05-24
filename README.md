@@ -34,21 +34,15 @@ I'm a 22-year-old full-stack developer passionate about solving real-world probl
 
 ---
 
-## 📊 Most Used Languages (mocked display)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jvdias-dev&layout=compact&langs_count=6&hide_title=true&theme=react&bg_color=0d1117&hide=html,css)
-
-
-
----
 
 ## 🧠 Soft Skills
+🤝 Collaborative team player – Actively contributes to team goals and supports peers to ensure project success.
 
-- Teamwork & collaboration  
-- Clear communication  
-- Organization & planning  
-- Problem-solving mindset  
+🗣️ Effective communicator – Clear and concise when discussing ideas, requirements, and solutions across technical and non-technical teams.
 
+🧩 Organized & detail-oriented – Maintains structured workflows and prioritizes tasks to meet deadlines efficiently.
+
+🧠 Analytical problem-solver – Tackles challenges with a logical mindset and a hunger for continuous improvement.
 ---
 
 ## 📱 Contact
