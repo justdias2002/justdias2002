@@ -3,10 +3,7 @@
 [🇧🇷 Versão em Português](#-versao-em-portugues) | [🇺🇸 English Version](#-english-version)
 
 ---
-![Dias's GitHub stats](https://github-readme-stats.vercel.app/api?username=codebydias&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codebydias&hide_progress=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Cauê's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=codebydias&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ---
 
 ## 🇧🇷 Versão em Português
