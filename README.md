@@ -20,7 +20,7 @@ Meu nome é João Victor, tenho 22 anos e estudo programação há 1 ano e meio.
 
 ## 🚀 Habilidades Adicionais
 
-![](https://skillicons.dev/icons?i=html5,css3,js,python)
+![](https://skillicons.dev/icons?i=html,css,js,python)
  
 ---
 
@@ -32,7 +32,7 @@ Meu nome é João Victor, tenho 22 anos e estudo programação há 1 ano e meio.
 
 ## ☁️ Banco de Dados
 
-![](https://skillicons.dev/icons?i=mysql,postegre)
+![](https://skillicons.dev/icons?i=mysql,postegresql)
 
 
 ---
