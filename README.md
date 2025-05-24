@@ -36,13 +36,14 @@ I'm a 22y full-stack developer passionate about solving real-world problems with
 
 
 ## 🧠 Soft Skills
-🤝 Collaborative team player – Actively contributes to team goals and supports peers to ensure project success.
+ Collaborative team player – Actively contributes to team goals and supports peers to ensure project success.
 
-🗣️ Effective communicator – Clear and concise when discussing ideas, requirements, and solutions across technical and non-technical teams.
+ Effective communicator – Clear and concise when discussing ideas, requirements, and solutions across technical and non-technical teams.
 
-🧩 Organized & detail-oriented – Maintains structured workflows and prioritizes tasks to meet deadlines efficiently.
+ Organized & detail-oriented – Maintains structured workflows and prioritizes tasks to meet deadlines efficiently.
 
-🧠 Analytical problem-solver – Tackles challenges with a logical mindset and a hunger for continuous improvement.
+ Analytical problem-solver – Tackles challenges with a logical mindset and a hunger for continuous improvement.
+ 
 ---
 
 ## 📱 Contact
@@ -58,4 +59,3 @@ I'm a 22y full-stack developer passionate about solving real-world problems with
     <img alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 </div>
----
