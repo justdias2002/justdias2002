@@ -1,6 +1,6 @@
 # 👋 Hey, I'm João Victor Dias
 
-I'm a 22-year-old full-stack developer passionate about solving real-world problems with code. I've been studying programming for 1.5 years and am currently focused on improving my skills and building meaningful projects.
+I'm a 22y full-stack developer passionate about solving real-world problems with code. I've been studying programming for 1.5 years and am currently focused on improving my skills and building meaningful projects.
 
 ---
 
