@@ -16,7 +16,7 @@
 
 ### 📚 Currently Learning
 
-<img src="https://skillicons.dev/icons?i=java,docker&theme=dark" />
+<img src="https://skillicons.dev/icons?i=php,laravel,docker&theme=dark" />
 
 ---
 
